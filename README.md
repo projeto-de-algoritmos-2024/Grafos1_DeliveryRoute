@@ -35,3 +35,6 @@ no terminal no caminho do nosso repositorio você deve digitar python3 grafos1.p
 - apertar o botão para selecionar o ponto de partida do motoboy
 - apertar o botão para selecionar os pontos de entrega do motoboy
 - apertar o botão para iniciar o programa
+
+## Vídeo do projeto
+<a href="https://youtu.be/5NGD7acZuRA">https://youtu.be/5NGD7acZuRA</a>
